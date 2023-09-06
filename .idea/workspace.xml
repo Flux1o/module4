@@ -1,25 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca1f1484-05ab-4ce1-89f1-6a783242cc29" name="Changes" comment="" />
+    <list default="true" id="ca1f1484-05ab-4ce1-89f1-6a783242cc29" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chumba.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advertisments/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advertisments/app_advertisements/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advertisments/app_lesson_4/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advertisments/static/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advertisments/templates/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advertisments/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod4_lesson2.css" beforeDir="false" afterPath="$PROJECT_DIR$/mod4_lesson2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod4_lesson2.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod4_lesson2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod_4_lesson3.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod_4_lesson3.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2SSjc0ZCL6xvmJJ2PrFbVOCckSu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;D:/PY/MXedu&quot;
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PY/module4&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PY\module4\advertisments" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="module4" />

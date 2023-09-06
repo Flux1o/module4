@@ -8,7 +8,6 @@ h1 {
     font-size: 32pt;
     color: green;
 }
-
 .paragraph-2 {
     border: 10px solid yellow;
     border-radius: 15px;
@@ -16,13 +15,11 @@ h1 {
     margin-bottom: 80px;
     padding-top: 50px;
 }
-
 .paragraph-3 {
     font-weight: bold;
     font-size: 22pt;
     font-family: Courier New;
 }
-
 .paragraph-4 {
     font-style: italic;
     font-size:24px;
